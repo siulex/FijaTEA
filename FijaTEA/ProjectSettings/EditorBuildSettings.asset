@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 770b38fe24083ae499355ab28c47e76c
+  - enabled: 0
+    path: Assets/Scenes/Antiguas/Main.unity
+    guid: e6f28026a0861084e8867ffbf303f8a7
+  - enabled: 1
+    path: Assets/Scenes/Cara1.unity
+    guid: 3a2c0ff2235a1d34f9fcb80e2943edf5
+  - enabled: 1
+    path: Assets/Scenes/Cara2.unity
+    guid: 4b803733e6906204a81e4dd98ca52212
+  - enabled: 1
+    path: Assets/Scenes/Cara3.unity
+    guid: 34a4675fd44adb4489f319a6876b1063
+  - enabled: 1
+    path: Assets/Scenes/SecuenciaEmociones1.unity
+    guid: 87101d7324af85a43a063d43154fd462
+  - enabled: 1
+    path: Assets/Scenes/SecuenciaEmociones2.unity
+    guid: 783e7297bb104794eacda3b9325f90f2
+  - enabled: 1
+    path: Assets/Scenes/OrdenarDia.unity
+    guid: 33008852318ef164995accede8f8cd75
+  - enabled: 1
+    path: Assets/Scenes/Cuestionario.unity
+    guid: 0d6d8dcbed9210e4ca95d379e7fecc4f
+  - enabled: 1
+    path: Assets/Scenes/Gracias.unity
+    guid: 78e96cb7faabfc040a804740f32b9c54
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 8b1ae074954210f47bb5f5ea0a8b0d5f
+  m_configObjects: {}
